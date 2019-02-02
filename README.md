@@ -1,2 +1,2 @@
 # text
-text repo
+text repo for  git command for demonstration 
